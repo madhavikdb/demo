@@ -1,0 +1,11 @@
+/home/madhavi/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/madhavi/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/madhavi/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/madhavi/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/madhavi/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/madhavi/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/madhavi/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/madhavi/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/madhavi/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/madhavi/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/madhavi/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
